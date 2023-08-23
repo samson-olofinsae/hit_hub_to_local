@@ -1,2 +1,1 @@
-This is my first github-to-local file
-23rd Aug is date
+I think line 2 - 23rd August is date - should be replaced by 24th August
