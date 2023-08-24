@@ -6,7 +6,7 @@ process index {
 publishDir ("${params.index_dir}", mode : 'copy')
 
 input:
- # add input
+ path genome
 
 output:
  path "${genome}.bwt", emit : ref_genome
